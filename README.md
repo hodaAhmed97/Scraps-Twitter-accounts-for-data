@@ -1,6 +1,7 @@
 # Scraps-Twitter-accounts-for-data
 A tool that scraps Twitter accounts for data.  
-———————————————————————————————
+———————————————————————————————--------------
+
 Assumption: 
 - Using Google Chrome for the driver to open the URL. 
 - The tickers should have $ and It is case sensitive.
